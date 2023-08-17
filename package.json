@@ -13,6 +13,8 @@
     "@syncfusion/ej2-react-popups": "^19.4.52",
     "@syncfusion/ej2-react-richtexteditor": "^19.4.50",
     "@syncfusion/ej2-react-schedule": "^19.4.50",
+    "axios": "^1.4.0",
+    "js-cookie": "^3.0.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
@@ -44,6 +46,8 @@
     ]
   },
   "devDependencies": {
+    "framer-motion": "^6.2.8",
+    "@heroicons/react": "^1.0.6",
     "autoprefixer": "^10.4.2",
     "eslint": "^8.9.0",
     "eslint-config-airbnb": "^19.0.4",
